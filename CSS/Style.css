@@ -1,0 +1,30 @@
+body{
+    background: #061316;
+    margin-left: 50px;
+    margin-right: 150;
+}
+
+header{
+    margin-top: 50px;}
+
+h1{ 
+    color:#f9f8f8;
+    font-family: Arial;
+    }
+
+h2{color: #f9f8f8}
+
+p{  
+    color: #f9f8f8;
+    font-size: 18px;
+}
+
+footer{
+    margin-left: 600px;
+    margin-bottom: 30px;
+    font-size:5px}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 300px
+}
