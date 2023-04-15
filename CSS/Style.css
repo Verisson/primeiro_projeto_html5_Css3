@@ -1,5 +1,5 @@
 body{
-    background: #061316;
+    background: #000000;
     margin-left: 50px;
     margin-right: 150;
 }
@@ -27,4 +27,7 @@ footer{
 .img_padrao{
     margin-bottom: 20px;
     width: 300px
+}
+
+.logo_contato{margin-left: 20px;
 }
